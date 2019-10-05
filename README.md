@@ -9,5 +9,5 @@
 ## Past Workshops
 * [Snakes: Bit by Bit Open House Workshop]
 * [Foundational Python Development Workshop]
-* [Data Visualisation and Machine Learning Workshop]
-* [Deep Learning Workshop](https://github.com/OpenSUTD/machine-learning-workshop)
+* [Data Visualisation and Machine Learning Workshop with IES]
+* [Deep Learning Workshop with Timothy](https://github.com/OpenSUTD/machine-learning-workshop)
