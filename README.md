@@ -2,7 +2,7 @@
 
 ## Present/Recurring Workshops
 
-* [Bot Building Basics]
+* [Bot Building Basics](https://github.com/shiyingt/to-do-list-bot/)
 * [Outreach Python Development Workshop]
 
 
